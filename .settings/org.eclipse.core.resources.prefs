@@ -1,7 +1,2 @@
 eclipse.preferences.version=1
-encoding//src/main/webapp/FileHandling/File.jsp=UTF-8
-encoding//src/main/webapp/corejava.jsp=UTF-8
-encoding//src/main/webapp/javaVsc++.jsp=UTF-8
-encoding//src/main/webapp/jopportal/Home.jsp=UTF-8
-encoding//src/main/webapp/path.jsp=UTF-8
-encoding//src/main/webapp/post_doubts.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/coursePages/c.jsp=UTF-8
